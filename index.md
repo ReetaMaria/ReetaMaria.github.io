@@ -1,5 +1,10 @@
 ## Reeta Korhonen: Web-tehtävä 7.10.2024
 
+# Welcome to my website  
+This is the main page.  
+
+[Go to the subpage](subpage.md)  
+
 ## 1. Lesson: Italics and bold  
 
 Writing in Markdown is _not_ that hard!  
