@@ -1,4 +1,4 @@
-# <Reeta Korhonen> Web-tehtävä 7.10.2024
+## Reeta Korhonen: Web-tehtävä 7.10.2024
 
 ## 1. Lesson: Italics and bold  
 
@@ -27,7 +27,9 @@ Here's some words about the book _One Hundred Years..._.
 ## 3. Lesson: Links  
 
 [Search for it.](https://www.google.com)  
+
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)  
+
 #### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
