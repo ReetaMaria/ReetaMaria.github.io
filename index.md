@@ -1,12 +1,18 @@
 # <Reeta Korhonen> Web-tehtävä 7.10.2024
 
-### 1. Italic and bold  
+## 1. Lesson: Italics and bold  
+
 Writing in Markdown is _not_ that hard!  
+
 I **will** complete these lessons!  
+
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"  
+
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.  
 
-### 2. Headers  
+
+## 2. Lesson: Headers  
+
 # Header one  
 ## Header two  
 ### Header three  
@@ -18,7 +24,8 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.  
 
-### 3. Links  
+## 3. Lesson: Links  
+
 [Search for it.](https://www.google.com)  
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)  
 #### The Latest News from [the BBC](https://www.bbc.com/news)
@@ -31,20 +38,20 @@ Well, do I have [the website for you][another fun place]!
 
 [another fun place]: https://www.stumbleupon.com  
 
-### 4. Images
+## 4. Lesson: Images  
 
-![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)  
 
+![Black cat][BLack]  
 
-![Black cat][BLack]
-
-![Orange cat][Orange]
+![Orange cat][Orange]  
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 [Orange]: https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png  
 
-### 5. Blockquotes  
+## 5. Lesson: Blockquotes  
+
 I read this interesting quote the other day:  
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"  
 
@@ -56,7 +63,8 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!  
 
-### 6. Lists  
+## 6. Lesson: Lists  
+
 * Flour
 * Cheese
 * Tomatoes  
@@ -88,7 +96,8 @@ I read this interesting quote the other day:
  
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
 
-### 7. Paragraphs  
+## 7. Lesson: Paragraphs  
+
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
